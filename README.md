@@ -319,7 +319,7 @@ Revenue impact, payment methods, billing preferences, and demographic patterns
 Business Analyst | Data Analytics Professional
 
 📧 Email: doreennjagi127@gmail.com  
-💼 LinkedIn: [linkedin.com/in/doreennjagi](https://www.linkedin.com/in/doreennjagi)  
+💼 LinkedIn: [linkedin.com/in/doreennjagi](https://www.linkedin.com/in/doreen-njagi-196350389)
 🐙 GitHub: [github.com/doreennjagi](https://github.com/doreennjagi)  
 
 **Career Focus:** Business Analyst and Customer Intelligence roles where I can combine business acumen with analytical capabilities to drive measurable impact.
