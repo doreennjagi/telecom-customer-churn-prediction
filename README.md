@@ -257,13 +257,13 @@ priority_customers.to_csv('retention_campaign_targets.csv', index=False)
 ## 📊 Sample Visualizations
 
 ### Churn Rate by Contract Type
-![Churn by Contract](visualizations/churn_analysis_visualizations.png)
+![Churn by Contract](/churn_analysis_visualizations.png)
 
 ### Model Performance
-![Model Performance](visualizations/model_performance.png)
+![Model Performance](model_performance.png)
 
 ### Revenue at Risk
-![Revenue Impact](visualizations/retention_strategy_insights.png)
+![Revenue Impact](retention_strategy_insights.png)
 
 ---
 
