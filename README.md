@@ -256,15 +256,17 @@ priority_customers.to_csv('retention_campaign_targets.csv', index=False)
 
 ## 📊 Sample Visualizations
 
-### Churn Rate by Contract Type
-![Churn by Contract](/churn_analysis_visualizations.png)
+### Main Analysis - Key Churn Patterns
+![Churn Analysis](churn_analysis_visualizations.png)
+*Six key visualizations showing churn patterns by contract type, internet service, monthly charges, customer tenure, churn reasons, and service engagement*
 
-### Model Performance
+### Model Performance - Random Forest Results
 ![Model Performance](model_performance.png)
+*Confusion matrix and ROC curve showing 86% accuracy and 92% AUC score*
 
-### Revenue at Risk
-![Revenue Impact](retention_strategy_insights.png)
-
+### Business Impact Analysis
+![Business Insights](business_insights_visualizations.png)
+Revenue impact, payment methods, billing preferences, and demographic patterns
 ---
 
 ## 🎓 Skills Demonstrated
